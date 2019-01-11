@@ -13,6 +13,3 @@ end
 def find_the_cheese()
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
-
-
-puts long_planeteer_calls(["two", "go", "industrious", "bop"])
