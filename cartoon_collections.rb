@@ -2,7 +2,7 @@ def roll_call_dwarves(arr)
   arr.each_with_index {|dwarf, i| puts "#{i+1}. #{dwarf}"}
 end
 
-def summon_captain_planet()
+def summon_captain_planet(arr)
 end
 
 def long_planeteer_calls()
